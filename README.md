@@ -42,6 +42,17 @@
 
 ---
 
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sakshis19&show_icons=true&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshis19&theme=tokyonight" width="47%" />
+</p>
+
+---
+
 ### 📚 Currently Learning
 
 - Kafka & Streaming Pipelines  
@@ -86,16 +97,6 @@
 - Identified patterns that helped optimize future marketing strategy  
 - [GitHub Repo](https://github.com/sakshis19/project-link)
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakshis19&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshis19&theme=tokyonight" width="47%" />
-</p>
-
----
 
 ### 🌐 Let's Connect
 
