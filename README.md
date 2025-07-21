@@ -6,8 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+Big+Data+Engineer;LINUX+%7C+Python+%7C+SQL;ETL+Pipeline+Designer+%7C+Data+Wrangler;Dynamic+Dashboards+%7C+Data+Analysis;Hadoop+%7C+Hive+%7C+Spark+%7C+Airflow;Cloud+%7C+Docker+%7C+GitHub" alt="Typing SVG" />
 </p>
 
-
-
 ---
 
 ### 👩‍💻 About Me
@@ -29,7 +27,6 @@
 
 ---
 
-
 ### 🧰 Tech Stack & Tools
 
 <p align="center">
@@ -42,6 +39,14 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
+
+---
+
+### 📚 Currently Learning
+
+- Kafka & Streaming Pipelines  
+- Advanced SQL Optimization  
+- Azure Functions & Blob Storage
 
 ---
 
@@ -90,6 +95,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshis19&theme=tokyonight" width="47%" />
 </p>
 
+---
 
 ### 🌐 Let's Connect
 
@@ -108,6 +114,7 @@
   <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200" alt="Python Terminal"/>
 
 </p>
+
 
 
 <p align="center">✨ Thanks for visiting my profile! ✨</p>
