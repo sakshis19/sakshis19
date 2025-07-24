@@ -10,12 +10,12 @@
 
 ### 👩‍💻 About Me
 
-- 🌱 Currently pursuing **PG-Diploma in Big Data Analytics** from CDAC Mumbai  
-- 📊 Strong foundation in Python, SQL, Hadoop, Docker, Spark, Airflow, AWS Cloud and Power BI  
-- 🛠️ Passionate about building ETL pipelines and solving data engineering problems  
-- 💡 Constantly upskilling in **Cloud Tech, Kafka, Docker, PostgreSQL**  
-- 🌐 Exploring the world of real-time streaming and distributed data systems  
-- ✨ Always curious, always learning!
+- Currently pursuing **PG-Diploma in Big Data Analytics** from CDAC Mumbai  
+- Strong foundation in Python, SQL, Hadoop, Docker, Spark, Airflow, AWS Cloud and Power BI  
+- Passionate about building ETL pipelines and solving data engineering problems  
+- Constantly upskilling in **Cloud Tech, Kafka, Docker, PostgreSQL**  
+- Exploring the world of real-time streaming and distributed data systems  
+- Always curious, always learning!
 
 ---
 
