@@ -3,7 +3,7 @@
 
 <!-- 🎯 Typing Animation Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+Big+Data+Engineer;LINUX+%7C+Python+%7C+SQL;ETL+Pipeline+Designer+%7C+Data+Wrangler;Dynamic+Dashboards+%7C+Data+Analysis;Hadoop+%7C+Spark+%7C+Airflow;Cloud+%7C+Docker+%7C+GitHub" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+Big+Data+Engineer;LINUX+%7C+Python+%7C+SQL;ETL+Pipelines;Dynamic+Dashboards+%7C+Data+Analysis;Hadoop+%7C+Spark+%7C+Airflow;Cloud+%7C+Docker+%7C+GitHub" alt="Typing SVG" />
 </p>
 
 ---
