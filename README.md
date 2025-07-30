@@ -13,7 +13,6 @@
 - Currently pursuing **PG-Diploma in Big Data Analytics** from CDAC Mumbai  
 - Building foundation in Python, SQL, Hadoop, Docker, Spark, Airflow, AWS Cloud and Power BI  
 - Passionate about building ETL pipelines and solving data engineering problems  
-- Constantly upskilling in **Cloud Tech, Kafka, Docker, PostgreSQL**  
 - Exploring the world of real-time streaming and distributed data systems  
 - Always curious, always learning!
 
@@ -59,42 +58,6 @@
 - Azure Functions & Blob Storage
 - Databricks
 ---
-
-### 💼 Projects
-
-#### 📦 E-Commerce Behavior Analysis (Big Data)
-**Tech:** HDFS | Hive | PySpark  
-- Ingested and transformed RetailRocket E-Commerce dataset using **HDFS and Hive**  
-- Built data pipelines with **PySpark** to analyze customer behavior  
-- Derived actionable insights on user sessions, cart actions, and product views  
-- [GitHub Repo](https://github.com/sakshis19/project-link)
-
----
-
-#### 🔁 ETL Pipeline with Airflow & PostgreSQL
-**Tech:** Apache Airflow | Docker | PostgreSQL | Python  
-- Designed a modular ETL pipeline triggered with **Airflow DAGs**  
-- Pulled, cleaned, and loaded data into **PostgreSQL** inside a **Dockerized** environment  
-- Used XComs and task dependency management for production-ready orchestration  
-- [GitHub Repo](https://github.com/sakshis19/project-link)
-
----
-
-#### 📈 Credit Card Analysis Dashboard
-**Tech:** Power BI | Excel | ETL  
-- Cleaned and transformed transactional data to generate KPIs  
-- Built **interactive dashboards** showing spend categories, defaulters, and trends  
-- Focused on storytelling with visuals to improve decision-making  
-- [GitHub Repo](https://github.com/sakshis19/project-link)
-
----
-
-#### 🎯 Marketing Campaign Insights
-**Tech:** Excel | Regex | Charts  
-- Used Excel functions, pivot tables, and **regex-based cleaning**  
-- Visualized campaign performance across regions, age groups, and channels  
-- Identified patterns that helped optimize future marketing strategy  
-- [GitHub Repo](https://github.com/sakshis19/project-link)
 
 
 ### 🌐 Let's Connect
