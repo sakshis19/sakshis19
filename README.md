@@ -10,7 +10,7 @@
 
 ### 👩‍💻 About Me
 
-- Currently pursuing **PG-Diploma in Big Data Analytics** from CDAC Mumbai  
+- Graduated with **PG-Diploma in Big Data Analytics** from CDAC Mumbai  
 - Building foundation in Python, SQL, Hadoop, Docker, Spark, Airflow, AWS Cloud and Power BI  
 - Passionate about building ETL pipelines and solving data engineering problems  
 - Exploring the world of real-time streaming and distributed data systems  
